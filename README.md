@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+### `$ git remote set-url origin https://github.com/qamarabbasx/ad-blinkers-ecom.git`
+to set or update the remote
 
 In the project directory, you can run:
 
